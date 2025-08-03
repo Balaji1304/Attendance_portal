@@ -1,4 +1,4 @@
-# Vaishnav Edutech - Student Management System
+# Attendance_Portal- Student Management System
 
 ## 📋 Project Overview
 
