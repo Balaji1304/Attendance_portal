@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-**Vaishnav Edutech** is a comprehensive student management system built with React, TypeScript, and Tailwind CSS. The application provides a modern, user-friendly interface for both students and administrators to manage academic activities, attendance, assignments, events, and more.
+**Attendance_portal** is a comprehensive student management system built with React, TypeScript, and Tailwind CSS. The application provides a modern, user-friendly interface for both students and administrators to manage academic activities, attendance, assignments, events, and more.
 
 ## 🏗️ Architecture & Technology Stack
 
@@ -72,7 +72,7 @@
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd vaishnav-edutech
+   cd Attendance_portal
    ```
 
 2. **Install dependencies**
@@ -107,7 +107,7 @@
 ## 📁 Project Structure
 
 ```
-vaishnav-edutech/
+Attendance_portal/
 ├── src/
 │   ├── components/
 │   │   ├── AdminDashboard.tsx      # Admin interface
