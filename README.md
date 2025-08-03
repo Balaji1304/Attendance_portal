@@ -225,7 +225,7 @@ interface Assignment {
 ## 🎯 Key Components
 
 ### LoginPage.tsx
-- **Brand Identity**: Vaishnav Edutech logo and branding
+- **Brand Identity**: Attendance portal logo and branding
 - **Form Validation**: Input validation and error handling
 - **Loading States**: Authentication progress indicators
 - **Demo Credentials**: Built-in test accounts
@@ -330,12 +330,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 
-**Vaishnav Edutech** - Educational Technology Solutions
+**Attendance_portal** - Educational Technology Solutions
 
 ## 📞 Support
 
 For support and questions:
-- **Email**: support@vaishnavedutech.com
+- **Email**: support@blackengine.com
 - **Documentation**: [Project Wiki]
 - **Issues**: [GitHub Issues]
 
