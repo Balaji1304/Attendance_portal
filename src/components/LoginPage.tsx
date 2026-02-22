@@ -78,7 +78,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
           </div>
           
           <h1 className="text-3xl font-bold text-slate-800 mb-2">
-            VAISHNAV
+            DEV
           </h1>
           <h2 className="text-2xl font-bold text-slate-800 mb-6">
             EDUTECH
